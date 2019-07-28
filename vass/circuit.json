@@ -2,70 +2,170 @@
  "mainCode": "{\n    {\n        {\n            {\n                {\n                }\n            }\n        }\n        {\n        }\n    }\n}\n",
  "signalName2Idx": {
   "one": 0,
-  "main.state[0]": 6,
-  "main.state[1]": 7,
-  "main.state[2]": 8,
-  "main.state[3]": 9,
-  "main.state[4]": 10,
-  "main.sub[0]": 11,
-  "main.sub[1]": 12,
-  "main.sub[2]": 13,
-  "main.sub[3]": 14,
-  "main.sub[4]": 15,
-  "main.add[0]": 16,
-  "main.add[1]": 17,
-  "main.add[2]": 18,
-  "main.add[3]": 19,
-  "main.add[4]": 20,
-  "main.result[0]": 21,
-  "main.result[1]": 22,
-  "main.result[2]": 23,
-  "main.result[3]": 24,
-  "main.result[4]": 25,
+  "main.state[0]": 15,
+  "main.state[1]": 16,
+  "main.state[2]": 17,
+  "main.state[3]": 18,
+  "main.state[4]": 19,
+  "main.state[5]": 20,
+  "main.state[6]": 21,
+  "main.state[7]": 22,
+  "main.state[8]": 23,
+  "main.state[9]": 24,
+  "main.state[10]": 25,
+  "main.state[11]": 26,
+  "main.state[12]": 27,
+  "main.state[13]": 28,
+  "main.sub[0]": 29,
+  "main.sub[1]": 30,
+  "main.sub[2]": 31,
+  "main.sub[3]": 32,
+  "main.sub[4]": 33,
+  "main.sub[5]": 34,
+  "main.sub[6]": 35,
+  "main.sub[7]": 36,
+  "main.sub[8]": 37,
+  "main.sub[9]": 38,
+  "main.sub[10]": 39,
+  "main.sub[11]": 40,
+  "main.sub[12]": 41,
+  "main.sub[13]": 42,
+  "main.action": 43,
+  "main.add[0]": 44,
+  "main.add[1]": 45,
+  "main.add[2]": 46,
+  "main.add[3]": 47,
+  "main.add[4]": 48,
+  "main.add[5]": 49,
+  "main.add[6]": 50,
+  "main.add[7]": 51,
+  "main.add[8]": 52,
+  "main.add[9]": 53,
+  "main.add[10]": 54,
+  "main.add[11]": 55,
+  "main.add[12]": 56,
+  "main.add[13]": 57,
+  "main.result[0]": 58,
+  "main.result[1]": 59,
+  "main.result[2]": 60,
+  "main.result[3]": 61,
+  "main.result[4]": 62,
+  "main.result[5]": 63,
+  "main.result[6]": 64,
+  "main.result[7]": 65,
+  "main.result[8]": 66,
+  "main.result[9]": 67,
+  "main.result[10]": 68,
+  "main.result[11]": 69,
+  "main.result[12]": 70,
+  "main.result[13]": 71,
   "main.yield[0]": 1,
   "main.yield[1]": 2,
   "main.yield[2]": 3,
   "main.yield[3]": 4,
   "main.yield[4]": 5,
-  "main.eq[0].in[0]": 21,
-  "main.eq[0].in[1]": 26,
+  "main.yield[5]": 6,
+  "main.yield[6]": 7,
+  "main.yield[7]": 8,
+  "main.yield[8]": 9,
+  "main.yield[9]": 10,
+  "main.yield[10]": 11,
+  "main.yield[11]": 12,
+  "main.yield[12]": 13,
+  "main.yield[13]": 14,
+  "main.eq[0].in[0]": 58,
+  "main.eq[0].in[1]": 72,
   "main.eq[0].out": 1,
-  "main.eq[0].isz.in": 27,
+  "main.eq[0].isz.in": 73,
   "main.eq[0].isz.out": 1,
-  "main.eq[0].isz.inv": 28,
-  "main.eq[1].in[0]": 22,
-  "main.eq[1].in[1]": 29,
+  "main.eq[0].isz.inv": 74,
+  "main.eq[1].in[0]": 59,
+  "main.eq[1].in[1]": 75,
   "main.eq[1].out": 2,
-  "main.eq[1].isz.in": 30,
+  "main.eq[1].isz.in": 76,
   "main.eq[1].isz.out": 2,
-  "main.eq[1].isz.inv": 31,
-  "main.eq[2].in[0]": 23,
-  "main.eq[2].in[1]": 32,
+  "main.eq[1].isz.inv": 77,
+  "main.eq[2].in[0]": 60,
+  "main.eq[2].in[1]": 78,
   "main.eq[2].out": 3,
-  "main.eq[2].isz.in": 33,
+  "main.eq[2].isz.in": 79,
   "main.eq[2].isz.out": 3,
-  "main.eq[2].isz.inv": 34,
-  "main.eq[3].in[0]": 24,
-  "main.eq[3].in[1]": 35,
+  "main.eq[2].isz.inv": 80,
+  "main.eq[3].in[0]": 61,
+  "main.eq[3].in[1]": 81,
   "main.eq[3].out": 4,
-  "main.eq[3].isz.in": 36,
+  "main.eq[3].isz.in": 82,
   "main.eq[3].isz.out": 4,
-  "main.eq[3].isz.inv": 37,
-  "main.eq[4].in[0]": 25,
-  "main.eq[4].in[1]": 38,
+  "main.eq[3].isz.inv": 83,
+  "main.eq[4].in[0]": 62,
+  "main.eq[4].in[1]": 84,
   "main.eq[4].out": 5,
-  "main.eq[4].isz.in": 39,
+  "main.eq[4].isz.in": 85,
   "main.eq[4].isz.out": 5,
-  "main.eq[4].isz.inv": 40
+  "main.eq[4].isz.inv": 86,
+  "main.eq[5].in[0]": 63,
+  "main.eq[5].in[1]": 87,
+  "main.eq[5].out": 6,
+  "main.eq[5].isz.in": 88,
+  "main.eq[5].isz.out": 6,
+  "main.eq[5].isz.inv": 89,
+  "main.eq[6].in[0]": 64,
+  "main.eq[6].in[1]": 90,
+  "main.eq[6].out": 7,
+  "main.eq[6].isz.in": 91,
+  "main.eq[6].isz.out": 7,
+  "main.eq[6].isz.inv": 92,
+  "main.eq[7].in[0]": 65,
+  "main.eq[7].in[1]": 93,
+  "main.eq[7].out": 8,
+  "main.eq[7].isz.in": 94,
+  "main.eq[7].isz.out": 8,
+  "main.eq[7].isz.inv": 95,
+  "main.eq[8].in[0]": 66,
+  "main.eq[8].in[1]": 96,
+  "main.eq[8].out": 9,
+  "main.eq[8].isz.in": 97,
+  "main.eq[8].isz.out": 9,
+  "main.eq[8].isz.inv": 98,
+  "main.eq[9].in[0]": 67,
+  "main.eq[9].in[1]": 99,
+  "main.eq[9].out": 10,
+  "main.eq[9].isz.in": 100,
+  "main.eq[9].isz.out": 10,
+  "main.eq[9].isz.inv": 101,
+  "main.eq[10].in[0]": 68,
+  "main.eq[10].in[1]": 102,
+  "main.eq[10].out": 11,
+  "main.eq[10].isz.in": 103,
+  "main.eq[10].isz.out": 11,
+  "main.eq[10].isz.inv": 104,
+  "main.eq[11].in[0]": 69,
+  "main.eq[11].in[1]": 105,
+  "main.eq[11].out": 12,
+  "main.eq[11].isz.in": 106,
+  "main.eq[11].isz.out": 12,
+  "main.eq[11].isz.inv": 107,
+  "main.eq[12].in[0]": 70,
+  "main.eq[12].in[1]": 108,
+  "main.eq[12].out": 13,
+  "main.eq[12].isz.in": 109,
+  "main.eq[12].isz.out": 13,
+  "main.eq[12].isz.inv": 110,
+  "main.eq[13].in[0]": 71,
+  "main.eq[13].in[1]": 111,
+  "main.eq[13].out": 14,
+  "main.eq[13].isz.in": 112,
+  "main.eq[13].isz.out": 14,
+  "main.eq[13].isz.inv": 113
  },
  "components": [
   {
    "name": "main",
    "params": {
-    "n": "5"
+    "n": "14"
    },
    "template": "VAAS",
-   "inputSignals": 20
+   "inputSignals": 57
   },
   {
    "name": "main.eq[0]",
@@ -93,6 +193,60 @@
   },
   {
    "name": "main.eq[4]",
+   "params": {},
+   "template": "IsEqual",
+   "inputSignals": 2
+  },
+  {
+   "name": "main.eq[5]",
+   "params": {},
+   "template": "IsEqual",
+   "inputSignals": 2
+  },
+  {
+   "name": "main.eq[6]",
+   "params": {},
+   "template": "IsEqual",
+   "inputSignals": 2
+  },
+  {
+   "name": "main.eq[7]",
+   "params": {},
+   "template": "IsEqual",
+   "inputSignals": 2
+  },
+  {
+   "name": "main.eq[8]",
+   "params": {},
+   "template": "IsEqual",
+   "inputSignals": 2
+  },
+  {
+   "name": "main.eq[9]",
+   "params": {},
+   "template": "IsEqual",
+   "inputSignals": 2
+  },
+  {
+   "name": "main.eq[10]",
+   "params": {},
+   "template": "IsEqual",
+   "inputSignals": 2
+  },
+  {
+   "name": "main.eq[11]",
+   "params": {},
+   "template": "IsEqual",
+   "inputSignals": 2
+  },
+  {
+   "name": "main.eq[12]",
+   "params": {},
+   "template": "IsEqual",
+   "inputSignals": 2
+  },
+  {
+   "name": "main.eq[13]",
    "params": {},
    "template": "IsEqual",
    "inputSignals": 2
@@ -126,6 +280,60 @@
    "params": {},
    "template": "IsZero",
    "inputSignals": 1
+  },
+  {
+   "name": "main.eq[5].isz",
+   "params": {},
+   "template": "IsZero",
+   "inputSignals": 1
+  },
+  {
+   "name": "main.eq[6].isz",
+   "params": {},
+   "template": "IsZero",
+   "inputSignals": 1
+  },
+  {
+   "name": "main.eq[7].isz",
+   "params": {},
+   "template": "IsZero",
+   "inputSignals": 1
+  },
+  {
+   "name": "main.eq[8].isz",
+   "params": {},
+   "template": "IsZero",
+   "inputSignals": 1
+  },
+  {
+   "name": "main.eq[9].isz",
+   "params": {},
+   "template": "IsZero",
+   "inputSignals": 1
+  },
+  {
+   "name": "main.eq[10].isz",
+   "params": {},
+   "template": "IsZero",
+   "inputSignals": 1
+  },
+  {
+   "name": "main.eq[11].isz",
+   "params": {},
+   "template": "IsZero",
+   "inputSignals": 1
+  },
+  {
+   "name": "main.eq[12].isz",
+   "params": {},
+   "template": "IsZero",
+   "inputSignals": 1
+  },
+  {
+   "name": "main.eq[13].isz",
+   "params": {},
+   "template": "IsZero",
+   "inputSignals": 1
   }
  ],
  "componentName2Idx": {
@@ -135,11 +343,29 @@
   "main.eq[2]": 3,
   "main.eq[3]": 4,
   "main.eq[4]": 5,
-  "main.eq[0].isz": 6,
-  "main.eq[1].isz": 7,
-  "main.eq[2].isz": 8,
-  "main.eq[3].isz": 9,
-  "main.eq[4].isz": 10
+  "main.eq[5]": 6,
+  "main.eq[6]": 7,
+  "main.eq[7]": 8,
+  "main.eq[8]": 9,
+  "main.eq[9]": 10,
+  "main.eq[10]": 11,
+  "main.eq[11]": 12,
+  "main.eq[12]": 13,
+  "main.eq[13]": 14,
+  "main.eq[0].isz": 15,
+  "main.eq[1].isz": 16,
+  "main.eq[2].isz": 17,
+  "main.eq[3].isz": 18,
+  "main.eq[4].isz": 19,
+  "main.eq[5].isz": 20,
+  "main.eq[6].isz": 21,
+  "main.eq[7].isz": 22,
+  "main.eq[8].isz": 23,
+  "main.eq[9].isz": 24,
+  "main.eq[10].isz": 25,
+  "main.eq[11].isz": 26,
+  "main.eq[12].isz": 27,
+  "main.eq[13].isz": 28
  },
  "signals": [
   {
@@ -190,6 +416,78 @@
   },
   {
    "names": [
+    "main.yield[5]",
+    "main.eq[5].out",
+    "main.eq[5].isz.out"
+   ],
+   "triggerComponents": []
+  },
+  {
+   "names": [
+    "main.yield[6]",
+    "main.eq[6].out",
+    "main.eq[6].isz.out"
+   ],
+   "triggerComponents": []
+  },
+  {
+   "names": [
+    "main.yield[7]",
+    "main.eq[7].out",
+    "main.eq[7].isz.out"
+   ],
+   "triggerComponents": []
+  },
+  {
+   "names": [
+    "main.yield[8]",
+    "main.eq[8].out",
+    "main.eq[8].isz.out"
+   ],
+   "triggerComponents": []
+  },
+  {
+   "names": [
+    "main.yield[9]",
+    "main.eq[9].out",
+    "main.eq[9].isz.out"
+   ],
+   "triggerComponents": []
+  },
+  {
+   "names": [
+    "main.yield[10]",
+    "main.eq[10].out",
+    "main.eq[10].isz.out"
+   ],
+   "triggerComponents": []
+  },
+  {
+   "names": [
+    "main.yield[11]",
+    "main.eq[11].out",
+    "main.eq[11].isz.out"
+   ],
+   "triggerComponents": []
+  },
+  {
+   "names": [
+    "main.yield[12]",
+    "main.eq[12].out",
+    "main.eq[12].isz.out"
+   ],
+   "triggerComponents": []
+  },
+  {
+   "names": [
+    "main.yield[13]",
+    "main.eq[13].out",
+    "main.eq[13].isz.out"
+   ],
+   "triggerComponents": []
+  },
+  {
+   "names": [
     "main.state[0]"
    ],
    "triggerComponents": [
@@ -223,6 +521,78 @@
   {
    "names": [
     "main.state[4]"
+   ],
+   "triggerComponents": [
+    0
+   ]
+  },
+  {
+   "names": [
+    "main.state[5]"
+   ],
+   "triggerComponents": [
+    0
+   ]
+  },
+  {
+   "names": [
+    "main.state[6]"
+   ],
+   "triggerComponents": [
+    0
+   ]
+  },
+  {
+   "names": [
+    "main.state[7]"
+   ],
+   "triggerComponents": [
+    0
+   ]
+  },
+  {
+   "names": [
+    "main.state[8]"
+   ],
+   "triggerComponents": [
+    0
+   ]
+  },
+  {
+   "names": [
+    "main.state[9]"
+   ],
+   "triggerComponents": [
+    0
+   ]
+  },
+  {
+   "names": [
+    "main.state[10]"
+   ],
+   "triggerComponents": [
+    0
+   ]
+  },
+  {
+   "names": [
+    "main.state[11]"
+   ],
+   "triggerComponents": [
+    0
+   ]
+  },
+  {
+   "names": [
+    "main.state[12]"
+   ],
+   "triggerComponents": [
+    0
+   ]
+  },
+  {
+   "names": [
+    "main.state[13]"
    ],
    "triggerComponents": [
     0
@@ -270,6 +640,86 @@
   },
   {
    "names": [
+    "main.sub[5]"
+   ],
+   "triggerComponents": [
+    0
+   ]
+  },
+  {
+   "names": [
+    "main.sub[6]"
+   ],
+   "triggerComponents": [
+    0
+   ]
+  },
+  {
+   "names": [
+    "main.sub[7]"
+   ],
+   "triggerComponents": [
+    0
+   ]
+  },
+  {
+   "names": [
+    "main.sub[8]"
+   ],
+   "triggerComponents": [
+    0
+   ]
+  },
+  {
+   "names": [
+    "main.sub[9]"
+   ],
+   "triggerComponents": [
+    0
+   ]
+  },
+  {
+   "names": [
+    "main.sub[10]"
+   ],
+   "triggerComponents": [
+    0
+   ]
+  },
+  {
+   "names": [
+    "main.sub[11]"
+   ],
+   "triggerComponents": [
+    0
+   ]
+  },
+  {
+   "names": [
+    "main.sub[12]"
+   ],
+   "triggerComponents": [
+    0
+   ]
+  },
+  {
+   "names": [
+    "main.sub[13]"
+   ],
+   "triggerComponents": [
+    0
+   ]
+  },
+  {
+   "names": [
+    "main.action"
+   ],
+   "triggerComponents": [
+    0
+   ]
+  },
+  {
+   "names": [
     "main.add[0]"
    ],
    "triggerComponents": [
@@ -303,6 +753,78 @@
   {
    "names": [
     "main.add[4]"
+   ],
+   "triggerComponents": [
+    0
+   ]
+  },
+  {
+   "names": [
+    "main.add[5]"
+   ],
+   "triggerComponents": [
+    0
+   ]
+  },
+  {
+   "names": [
+    "main.add[6]"
+   ],
+   "triggerComponents": [
+    0
+   ]
+  },
+  {
+   "names": [
+    "main.add[7]"
+   ],
+   "triggerComponents": [
+    0
+   ]
+  },
+  {
+   "names": [
+    "main.add[8]"
+   ],
+   "triggerComponents": [
+    0
+   ]
+  },
+  {
+   "names": [
+    "main.add[9]"
+   ],
+   "triggerComponents": [
+    0
+   ]
+  },
+  {
+   "names": [
+    "main.add[10]"
+   ],
+   "triggerComponents": [
+    0
+   ]
+  },
+  {
+   "names": [
+    "main.add[11]"
+   ],
+   "triggerComponents": [
+    0
+   ]
+  },
+  {
+   "names": [
+    "main.add[12]"
+   ],
+   "triggerComponents": [
+    0
+   ]
+  },
+  {
+   "names": [
+    "main.add[13]"
    ],
    "triggerComponents": [
     0
@@ -360,6 +882,96 @@
   },
   {
    "names": [
+    "main.result[5]",
+    "main.eq[5].in[0]"
+   ],
+   "triggerComponents": [
+    0,
+    6
+   ]
+  },
+  {
+   "names": [
+    "main.result[6]",
+    "main.eq[6].in[0]"
+   ],
+   "triggerComponents": [
+    0,
+    7
+   ]
+  },
+  {
+   "names": [
+    "main.result[7]",
+    "main.eq[7].in[0]"
+   ],
+   "triggerComponents": [
+    0,
+    8
+   ]
+  },
+  {
+   "names": [
+    "main.result[8]",
+    "main.eq[8].in[0]"
+   ],
+   "triggerComponents": [
+    0,
+    9
+   ]
+  },
+  {
+   "names": [
+    "main.result[9]",
+    "main.eq[9].in[0]"
+   ],
+   "triggerComponents": [
+    0,
+    10
+   ]
+  },
+  {
+   "names": [
+    "main.result[10]",
+    "main.eq[10].in[0]"
+   ],
+   "triggerComponents": [
+    0,
+    11
+   ]
+  },
+  {
+   "names": [
+    "main.result[11]",
+    "main.eq[11].in[0]"
+   ],
+   "triggerComponents": [
+    0,
+    12
+   ]
+  },
+  {
+   "names": [
+    "main.result[12]",
+    "main.eq[12].in[0]"
+   ],
+   "triggerComponents": [
+    0,
+    13
+   ]
+  },
+  {
+   "names": [
+    "main.result[13]",
+    "main.eq[13].in[0]"
+   ],
+   "triggerComponents": [
+    0,
+    14
+   ]
+  },
+  {
+   "names": [
     "main.eq[0].in[1]"
    ],
    "triggerComponents": [
@@ -371,7 +983,7 @@
     "main.eq[0].isz.in"
    ],
    "triggerComponents": [
-    6
+    15
    ]
   },
   {
@@ -393,7 +1005,7 @@
     "main.eq[1].isz.in"
    ],
    "triggerComponents": [
-    7
+    16
    ]
   },
   {
@@ -415,7 +1027,7 @@
     "main.eq[2].isz.in"
    ],
    "triggerComponents": [
-    8
+    17
    ]
   },
   {
@@ -437,7 +1049,7 @@
     "main.eq[3].isz.in"
    ],
    "triggerComponents": [
-    9
+    18
    ]
   },
   {
@@ -459,7 +1071,7 @@
     "main.eq[4].isz.in"
    ],
    "triggerComponents": [
-    10
+    19
    ]
   },
   {
@@ -467,16 +1079,214 @@
     "main.eq[4].isz.inv"
    ],
    "triggerComponents": []
+  },
+  {
+   "names": [
+    "main.eq[5].in[1]"
+   ],
+   "triggerComponents": [
+    6
+   ]
+  },
+  {
+   "names": [
+    "main.eq[5].isz.in"
+   ],
+   "triggerComponents": [
+    20
+   ]
+  },
+  {
+   "names": [
+    "main.eq[5].isz.inv"
+   ],
+   "triggerComponents": []
+  },
+  {
+   "names": [
+    "main.eq[6].in[1]"
+   ],
+   "triggerComponents": [
+    7
+   ]
+  },
+  {
+   "names": [
+    "main.eq[6].isz.in"
+   ],
+   "triggerComponents": [
+    21
+   ]
+  },
+  {
+   "names": [
+    "main.eq[6].isz.inv"
+   ],
+   "triggerComponents": []
+  },
+  {
+   "names": [
+    "main.eq[7].in[1]"
+   ],
+   "triggerComponents": [
+    8
+   ]
+  },
+  {
+   "names": [
+    "main.eq[7].isz.in"
+   ],
+   "triggerComponents": [
+    22
+   ]
+  },
+  {
+   "names": [
+    "main.eq[7].isz.inv"
+   ],
+   "triggerComponents": []
+  },
+  {
+   "names": [
+    "main.eq[8].in[1]"
+   ],
+   "triggerComponents": [
+    9
+   ]
+  },
+  {
+   "names": [
+    "main.eq[8].isz.in"
+   ],
+   "triggerComponents": [
+    23
+   ]
+  },
+  {
+   "names": [
+    "main.eq[8].isz.inv"
+   ],
+   "triggerComponents": []
+  },
+  {
+   "names": [
+    "main.eq[9].in[1]"
+   ],
+   "triggerComponents": [
+    10
+   ]
+  },
+  {
+   "names": [
+    "main.eq[9].isz.in"
+   ],
+   "triggerComponents": [
+    24
+   ]
+  },
+  {
+   "names": [
+    "main.eq[9].isz.inv"
+   ],
+   "triggerComponents": []
+  },
+  {
+   "names": [
+    "main.eq[10].in[1]"
+   ],
+   "triggerComponents": [
+    11
+   ]
+  },
+  {
+   "names": [
+    "main.eq[10].isz.in"
+   ],
+   "triggerComponents": [
+    25
+   ]
+  },
+  {
+   "names": [
+    "main.eq[10].isz.inv"
+   ],
+   "triggerComponents": []
+  },
+  {
+   "names": [
+    "main.eq[11].in[1]"
+   ],
+   "triggerComponents": [
+    12
+   ]
+  },
+  {
+   "names": [
+    "main.eq[11].isz.in"
+   ],
+   "triggerComponents": [
+    26
+   ]
+  },
+  {
+   "names": [
+    "main.eq[11].isz.inv"
+   ],
+   "triggerComponents": []
+  },
+  {
+   "names": [
+    "main.eq[12].in[1]"
+   ],
+   "triggerComponents": [
+    13
+   ]
+  },
+  {
+   "names": [
+    "main.eq[12].isz.in"
+   ],
+   "triggerComponents": [
+    27
+   ]
+  },
+  {
+   "names": [
+    "main.eq[12].isz.inv"
+   ],
+   "triggerComponents": []
+  },
+  {
+   "names": [
+    "main.eq[13].in[1]"
+   ],
+   "triggerComponents": [
+    14
+   ]
+  },
+  {
+   "names": [
+    "main.eq[13].isz.in"
+   ],
+   "triggerComponents": [
+    28
+   ]
+  },
+  {
+   "names": [
+    "main.eq[13].isz.inv"
+   ],
+   "triggerComponents": []
   }
  ],
  "constraints": [
   [
    {
-    "21": "21888242871839275222246405745257275088548364400416034343698204186575808495616",
-    "26": "1"
+    "58": "21888242871839275222246405745257275088548364400416034343698204186575808495616",
+    "72": "1"
    },
    {
-    "28": "1"
+    "74": "1"
    },
    {
     "0": "1",
@@ -485,8 +1295,8 @@
   ],
   [
    {
-    "21": "21888242871839275222246405745257275088548364400416034343698204186575808495616",
-    "26": "1"
+    "58": "21888242871839275222246405745257275088548364400416034343698204186575808495616",
+    "72": "1"
    },
    {
     "1": "1"
@@ -495,11 +1305,11 @@
   ],
   [
    {
-    "22": "21888242871839275222246405745257275088548364400416034343698204186575808495616",
-    "29": "1"
+    "59": "21888242871839275222246405745257275088548364400416034343698204186575808495616",
+    "75": "1"
    },
    {
-    "31": "1"
+    "77": "1"
    },
    {
     "0": "1",
@@ -508,8 +1318,8 @@
   ],
   [
    {
-    "22": "21888242871839275222246405745257275088548364400416034343698204186575808495616",
-    "29": "1"
+    "59": "21888242871839275222246405745257275088548364400416034343698204186575808495616",
+    "75": "1"
    },
    {
     "2": "1"
@@ -518,11 +1328,11 @@
   ],
   [
    {
-    "23": "21888242871839275222246405745257275088548364400416034343698204186575808495616",
-    "32": "1"
+    "60": "21888242871839275222246405745257275088548364400416034343698204186575808495616",
+    "78": "1"
    },
    {
-    "34": "1"
+    "80": "1"
    },
    {
     "0": "1",
@@ -531,8 +1341,8 @@
   ],
   [
    {
-    "23": "21888242871839275222246405745257275088548364400416034343698204186575808495616",
-    "32": "1"
+    "60": "21888242871839275222246405745257275088548364400416034343698204186575808495616",
+    "78": "1"
    },
    {
     "3": "1"
@@ -541,11 +1351,11 @@
   ],
   [
    {
-    "24": "21888242871839275222246405745257275088548364400416034343698204186575808495616",
-    "35": "1"
+    "61": "21888242871839275222246405745257275088548364400416034343698204186575808495616",
+    "81": "1"
    },
    {
-    "37": "1"
+    "83": "1"
    },
    {
     "0": "1",
@@ -554,8 +1364,8 @@
   ],
   [
    {
-    "24": "21888242871839275222246405745257275088548364400416034343698204186575808495616",
-    "35": "1"
+    "61": "21888242871839275222246405745257275088548364400416034343698204186575808495616",
+    "81": "1"
    },
    {
     "4": "1"
@@ -564,11 +1374,11 @@
   ],
   [
    {
-    "25": "21888242871839275222246405745257275088548364400416034343698204186575808495616",
-    "38": "1"
+    "62": "21888242871839275222246405745257275088548364400416034343698204186575808495616",
+    "84": "1"
    },
    {
-    "40": "1"
+    "86": "1"
    },
    {
     "0": "1",
@@ -577,11 +1387,218 @@
   ],
   [
    {
-    "25": "21888242871839275222246405745257275088548364400416034343698204186575808495616",
-    "38": "1"
+    "62": "21888242871839275222246405745257275088548364400416034343698204186575808495616",
+    "84": "1"
    },
    {
     "5": "1"
+   },
+   {}
+  ],
+  [
+   {
+    "63": "21888242871839275222246405745257275088548364400416034343698204186575808495616",
+    "87": "1"
+   },
+   {
+    "89": "1"
+   },
+   {
+    "0": "1",
+    "6": "21888242871839275222246405745257275088548364400416034343698204186575808495616"
+   }
+  ],
+  [
+   {
+    "63": "21888242871839275222246405745257275088548364400416034343698204186575808495616",
+    "87": "1"
+   },
+   {
+    "6": "1"
+   },
+   {}
+  ],
+  [
+   {
+    "64": "21888242871839275222246405745257275088548364400416034343698204186575808495616",
+    "90": "1"
+   },
+   {
+    "92": "1"
+   },
+   {
+    "0": "1",
+    "7": "21888242871839275222246405745257275088548364400416034343698204186575808495616"
+   }
+  ],
+  [
+   {
+    "64": "21888242871839275222246405745257275088548364400416034343698204186575808495616",
+    "90": "1"
+   },
+   {
+    "7": "1"
+   },
+   {}
+  ],
+  [
+   {
+    "65": "21888242871839275222246405745257275088548364400416034343698204186575808495616",
+    "93": "1"
+   },
+   {
+    "95": "1"
+   },
+   {
+    "0": "1",
+    "8": "21888242871839275222246405745257275088548364400416034343698204186575808495616"
+   }
+  ],
+  [
+   {
+    "65": "21888242871839275222246405745257275088548364400416034343698204186575808495616",
+    "93": "1"
+   },
+   {
+    "8": "1"
+   },
+   {}
+  ],
+  [
+   {
+    "66": "21888242871839275222246405745257275088548364400416034343698204186575808495616",
+    "96": "1"
+   },
+   {
+    "98": "1"
+   },
+   {
+    "0": "1",
+    "9": "21888242871839275222246405745257275088548364400416034343698204186575808495616"
+   }
+  ],
+  [
+   {
+    "66": "21888242871839275222246405745257275088548364400416034343698204186575808495616",
+    "96": "1"
+   },
+   {
+    "9": "1"
+   },
+   {}
+  ],
+  [
+   {
+    "67": "21888242871839275222246405745257275088548364400416034343698204186575808495616",
+    "99": "1"
+   },
+   {
+    "101": "1"
+   },
+   {
+    "0": "1",
+    "10": "21888242871839275222246405745257275088548364400416034343698204186575808495616"
+   }
+  ],
+  [
+   {
+    "67": "21888242871839275222246405745257275088548364400416034343698204186575808495616",
+    "99": "1"
+   },
+   {
+    "10": "1"
+   },
+   {}
+  ],
+  [
+   {
+    "68": "21888242871839275222246405745257275088548364400416034343698204186575808495616",
+    "102": "1"
+   },
+   {
+    "104": "1"
+   },
+   {
+    "0": "1",
+    "11": "21888242871839275222246405745257275088548364400416034343698204186575808495616"
+   }
+  ],
+  [
+   {
+    "68": "21888242871839275222246405745257275088548364400416034343698204186575808495616",
+    "102": "1"
+   },
+   {
+    "11": "1"
+   },
+   {}
+  ],
+  [
+   {
+    "69": "21888242871839275222246405745257275088548364400416034343698204186575808495616",
+    "105": "1"
+   },
+   {
+    "107": "1"
+   },
+   {
+    "0": "1",
+    "12": "21888242871839275222246405745257275088548364400416034343698204186575808495616"
+   }
+  ],
+  [
+   {
+    "69": "21888242871839275222246405745257275088548364400416034343698204186575808495616",
+    "105": "1"
+   },
+   {
+    "12": "1"
+   },
+   {}
+  ],
+  [
+   {
+    "70": "21888242871839275222246405745257275088548364400416034343698204186575808495616",
+    "108": "1"
+   },
+   {
+    "110": "1"
+   },
+   {
+    "0": "1",
+    "13": "21888242871839275222246405745257275088548364400416034343698204186575808495616"
+   }
+  ],
+  [
+   {
+    "70": "21888242871839275222246405745257275088548364400416034343698204186575808495616",
+    "108": "1"
+   },
+   {
+    "13": "1"
+   },
+   {}
+  ],
+  [
+   {
+    "71": "21888242871839275222246405745257275088548364400416034343698204186575808495616",
+    "111": "1"
+   },
+   {
+    "113": "1"
+   },
+   {
+    "0": "1",
+    "14": "21888242871839275222246405745257275088548364400416034343698204186575808495616"
+   }
+  ],
+  [
+   {
+    "71": "21888242871839275222246405745257275088548364400416034343698204186575808495616",
+    "111": "1"
+   },
+   {
+    "14": "1"
    },
    {}
   ]
@@ -612,11 +1629,11 @@
    "func": "function(ctx) {\n    ctx.setVar(\"n\", [], \"1\");\n    ctx.setVar(\"r\", [], \"0\");\n    while (bigInt(bigInt(bigInt(ctx.getVar(\"n\",[])).add(__P__).sub(bigInt(\"1\")).mod(__P__)).lt(bigInt(ctx.getVar(\"a\",[]))) ? 1 : 0).neq(bigInt(0))) {\n    {\n        (ctx.setVar(\"r\", [], bigInt(ctx.getVar(\"r\",[])).add(bigInt(\"1\")).mod(__P__))).add(__P__).sub(bigInt(1)).mod(__P__);\n        ctx.setVar(\"n\", [], bigInt(ctx.getVar(\"n\",[])).mul(bigInt(\"2\")).mod(__P__));\n    }\n\n    }\n    return ctx.getVar(\"r\",[]);;\n}\n"
   }
  },
- "nPrvInputs": 20,
+ "nPrvInputs": 57,
  "nPubInputs": 0,
- "nInputs": 20,
- "nOutputs": 5,
- "nVars": 41,
+ "nInputs": 57,
+ "nOutputs": 14,
+ "nVars": 114,
  "nConstants": 0,
- "nSignals": 41
+ "nSignals": 114
 }

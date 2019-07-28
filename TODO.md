@@ -1,6 +1,7 @@
 WIP
 ---
 - [ ] attempt to refine circuit to assert that the included delta is a valid transition
+- [ ] use octoe to create a ZKP state machine
 
 BACKLOG
 -------
